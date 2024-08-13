@@ -1,0 +1,19 @@
+#register-container {
+    width: 400px;
+    margin: 100px auto 0;
+}
+
+#register-container .title {
+    text-align: center;
+}
+
+#register-container .links {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+
+}
+
+#register-container .submit-btn {
+    width: 100%;
+}
